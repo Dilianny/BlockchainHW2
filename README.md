@@ -1,5 +1,5 @@
 # Description
-This program cracks sha1 hashes and salted sha1 hashes
+This program tries to crack sha1 hashes and salted sha1 hashes by using dictionary attack in python version 2.7.15.
 # Instructions
 	1.Download blockchainsha1hw2.py and 10-million-password-list-top-1000000.txt  files to Desktop folder
 	2.Then open command prompt for Window users
