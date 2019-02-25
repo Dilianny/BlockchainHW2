@@ -9,4 +9,8 @@ This program cracks sha1 hashes and salted sha1 hashes
 # Examples
 	Try to crack sha1 hash b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
 ![image](https://github.com/Dilianny/BlockchainHW2/blob/master/1a.PNG)
+
+	Trying to crack medium hacker hash: 801cdea58224c921c21fd2b183ff28ffa910ce31  
+![image](https://github.com/Dilianny/BlockchainHW2/blob/master/1b.PNG)
+
 	
