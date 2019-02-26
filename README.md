@@ -1,5 +1,6 @@
 # Description
 This program tries to crack sha1 hashes and salted sha1 hashes by using dictionary attack in python version 2.7.15.
+It cracks salted sha1 hashes where the salt term is concatenated before hashing with another word to produce the salted hash 
 # Instructions
 	
 	1.Download sha1hash.py and 10-million-password-list-top-1000000.txt  files to Desktop folder
