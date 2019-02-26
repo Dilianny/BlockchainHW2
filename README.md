@@ -16,4 +16,4 @@ It cracks salted sha1 hashes where the salt term is concatenated before hashing 
 ![image](https://github.com/Dilianny/BlockchainHW2/blob/master/1b.PNG)
 
 	Try to crack leet hacker hash: ece4bb07f2580ed8b39aa52b7f7f918e43033ea1 
-![image](	
+![image](https://github.com/Dilianny/BlockchainHW2/blob/master/1c.PNG)	
